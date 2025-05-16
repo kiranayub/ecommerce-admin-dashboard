@@ -25,11 +25,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 ---
-## **. Documentation.md (Design Choices, Challenges, Screenshots)**
+## Documentation.md (Design Choices, Challenges, Screenshots)
 
-Yeh file aap manually submit kar sakti hain ya documentation folder mein daal sakti hain:
-
-```markdown
 
 #  Project Documentation – Kiran E-commerce Admin Dashboard
    https://kiranecommerceadmindashboard.netlify.app/
@@ -53,7 +50,7 @@ This admin dashboard was built with **Vue.js** for front-end interactivity and *
 
 ##  Functionality by Page
 
-###  **Add Product**
+###  Add Product
 
 - Fields:
 
@@ -63,7 +60,7 @@ This admin dashboard was built with **Vue.js** for front-end interactivity and *
 - Add product to the list of inventory with mock functions
 ---
 
-###  **Inventory Manager**
+###  Inventory Manager
 
 - Functionality:
 
@@ -73,7 +70,7 @@ This admin dashboard was built with **Vue.js** for front-end interactivity and *
   - Low stock alert with red text or border
 ---
 
-### **Revenue Dashboard**
+### Revenue Dashboard
 
 - Filter by Category (All, etc.)
 
