@@ -4,9 +4,9 @@
   <div>
     <h1>E-commerce Admin Dashboard</h1>
 
-    <button @click="currentView = 'RevenueDashboard'">Revenue</button>
+    <!-- <button @click="currentView = 'RevenueDashboard'">Revenue</button>
     <button @click="currentView = 'InventoryManager'">Inventory</button>
-    <button @click="currentView = 'ProductRegistration'">Add Product</button>
+    <button @click="currentView = 'ProductRegistration'">Add Product</button> -->
 
     <component :is="currentView" />
   </div>
